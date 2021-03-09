@@ -21,7 +21,7 @@
     {"id": 10,
       "title": "Tennis"}
 ],
-  "Work Life": [
+  "Work": [
     {"id": 1,
       "title": "Work"},
     {"id": 2,
@@ -42,4 +42,5 @@
       "title": "Employment"},
     {"id": 10,
       "title": "Fired"}
-    ]}
+    ],
+}
