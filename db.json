@@ -1,5 +1,4 @@
-{
-  "Sport": [
+"Sport": [
     {"id": 1,
       "title": "Football"},
     {"id": 2,
@@ -43,4 +42,4 @@
     {"id": 10,
       "title": "Fired"}
     ]
-}
+
